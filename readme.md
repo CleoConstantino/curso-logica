@@ -1,1 +1,1 @@
-# Curso - Lógica de programação I: os primeiros programas com Javascript e HTML. Alura - 16h - 10/10/2020
+# Curso - Lógica de programação II: pratique com desenhos, animações e um jogo. Alura - 10h - 15/10/2020
