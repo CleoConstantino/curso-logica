@@ -8,9 +8,10 @@
    y = height = "400" altura
    
 No Javascript pode usar ' ' (aspas simples);
-tela.getContent('2d'): é o meu "pincel" para pintar a tela;
-fillRect = tamanho (x,y);
-fillStyle = cor da tela
+
+    tela.getContent('2d'): é o meu "pincel" para pintar a tela;
+    fillRect = tamanho (x,y);
+    fillStyle = cor da tela
 
     /*  comentário no canvas
     */
