@@ -1,5 +1,5 @@
 
-# Curso - Lógica de programação II: pratique com desenhos,animaçõs e um jogo - 10h - 30/10/2020
+# Curso - Lógica de programação II: pratique com desenhos,animaçõs e um jogo -Alura - 10h - 30/10/2020
   
 
     <canvas> </canvas> área da tela que eu posso desenhar com um "pincel"
